@@ -1,0 +1,22 @@
+{
+  "name": "moment4",
+  "version": "1.0.0",
+  "description": "<p>Att använda automatiserings-process gör att man sparar väldigt mycket tid.  Ändringar som görs eller att komprimera en bild behöver man inte  göra manuellt utan görs automatiskt.</p>",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.13.0"
+  }
+}
